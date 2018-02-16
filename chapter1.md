@@ -18,7 +18,7 @@ key: 2f1e14dc1e
 
 
 `@instructions`
-Snowflake is a data wharehouse with the flexible scaling of S3 for storage and the auto scaling of and EC2 autoscaling group.  To access snowflake, build your environment by importing the snowflake access library.
+Snowflake is a data warehouse with the flexible scaling of S3 for storage and the auto scaling of and EC2 autoscaling group.  To access snowflake, build your environment by importing the snowflake access library.
 
 `@hint`
 
